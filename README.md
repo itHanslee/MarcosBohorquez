@@ -70,10 +70,10 @@ Soy un desarrollador web junior full stack en proceso, terminando el tecnico de 
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/Marcos-Bohórquez-513b71338" target="_blank">
+  <a href="https://www.linkedin.com/in/Marcos-Bohórquez-513b71338" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="www.marcosbohorquez0910@gmail.com" target="_blank">
+  <a href="https://www.marcosbohorquez0910@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
