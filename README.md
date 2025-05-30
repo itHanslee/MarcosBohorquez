@@ -2,12 +2,12 @@
 
 ¡Bienvenido a mi perfil de GitHub! 
 
-Soy un desarrollador web junior con el grado superior de DAW recién terminado, en busca de mi primer empleo y desarrollando todo lo que se me ocurre. Aquí encontrarás algunos de mis proyectos y colaboraciones. 🚀
+Soy un desarrollador web junior full stack en proceso, terminando el tecnico de ingeneria telematica, en busca de practicas y desarrollando todo lo que se me ocurre. Aquí encontrarás algunos de mis proyectos. 🚀
 
 ---
 
 ## 💼 Sobre mí
-- 🎓 Actualmente desarrollador web junior y en constante aprendizaje.
+- 🎓 Actualmente desarrollador web junior full stack en proceso y en constante aprendizaje.
 - 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **Python**, y **PHPmyadmin**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
 - 📫 Contáctame: marcosbohorquez0910@[gmail](mailto:marcosbohorquez0910@gmail.com).com | [LinkedIn](www.linkedin.com/in/Marcos-Bohórquez-513b71338)
