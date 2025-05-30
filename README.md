@@ -59,21 +59,15 @@ Soy un desarrollador web junior full stack en proceso, terminando el tecnico de 
 ---
 
 ## 📌 Proyectos destacados
-### [✂️ Craft it!](https://craftit.vercel.app)
+### [✂️ Consulta de vacunas](https://craftit.vercel.app)
 - 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
 - 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
 
-### [🏍 Ichiban-Clone](https://ichiban-clone.netlify.app/)
+### [🏍 Biblioteca digital](https://ithanslee.github.io/Biblioteca-digital)
 - 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
 - 🔴 **Tecnologías:** CSS, HTML y JavaScript
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beruzdev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beruzdev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=beruzdev&theme=darkhub&column=1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ---
 
