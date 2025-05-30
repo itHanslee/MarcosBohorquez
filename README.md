@@ -59,15 +59,13 @@ Soy un desarrollador web junior full stack en proceso, terminando el tecnico de 
 ---
 
 ## 📌 Proyectos destacados
-### [✂️ Consulta de vacunas](https://craftit.vercel.app)
-- 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
-- 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
+### [✂️ Consulta de vacunas](https://consulta-de-vacunas.netlify.app)
+- 🟢 Consulta tu vacuna! busca que vacunas ya tienes al dia y cuales son tus proximas citas en *Delta* y tu  biniestar y salud es nuestra prioridad!
+- 🟢 **Tecnologías:** HTML, CSS, Javascript, python, Phpmyadmin/Mysql.
 
 ### [🏍 Biblioteca digital](https://ithanslee.github.io/Biblioteca-digital)
-- 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
+- 🔴 Biblioteca virtual para comprar tus libros favoritos. !Animacion super dinamica y un estilo unico!
 - 🔴 **Tecnologías:** CSS, HTML y JavaScript
-
----
 
 ---
 
