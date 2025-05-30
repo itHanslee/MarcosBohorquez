@@ -11,7 +11,7 @@ Soy un desarrollador web junior full stack en proceso, terminando el tecnico de 
 - 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **Python**, y **PHPmyadmin**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
 - 📫 Contáctame: marcosbohorquez0910@[gmail](mailto:marcosbohorquez0910@gmail.com).com | [LinkedIn](www.linkedin.com/in/Marcos-Bohórquez-513b71338)
-- 📁 [Portafolio](https://albertcastro.vercel.app/)
+- 📁 [Portafolio](https://portafolio-marcos-bohorquez.netlify.app/)
 
 ---
 
