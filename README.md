@@ -2,13 +2,13 @@
 
 ¡Bienvenido a mi perfil de GitHub! 
 
-Soy un desarrollador web junior full stack en proceso, terminando el tecnico de ingeneria telematica, en busca de practicas y desarrollando todo lo que se me ocurre. Aquí encontrarás algunos de mis proyectos. 🚀
+Soy un desarrollador web en proceso, terminando el tecnico de ingeneria telematica, desarrollando todo lo que se me ocurre. Aquí encontrarás algunos de mis proyectos. 🚀
 
 ---
 
 ## 💼 Sobre mí
-- 🎓 Actualmente desarrollador web junior full stack en proceso y en constante aprendizaje.
-- 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **Python**, y **PHPmyadmin**.
+- 🎓 Actualmente desarrollador web en proceso y en constante aprendizaje.
+- 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **Python**, y **FastApi**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
 - 📫 Contáctame: marcosbohorquez0910@[gmail](mailto:marcosbohorquez0910@gmail.com).com | [LinkedIn](www.linkedin.com/in/Marcos-Bohórquez-513b71338)
 - 📁 [Portafolio](https://portafolio-marcos-bohorquez.netlify.app/)
@@ -40,7 +40,6 @@ Soy un desarrollador web junior full stack en proceso, terminando el tecnico de 
     <h3>Bases de datos:</h3>
     <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
     </div>
   </div>
 
