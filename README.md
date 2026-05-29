@@ -1,188 +1,230 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Python%20%7C%20FastAPI%20%7C%20MySQL-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Especialista-Ciberseguridad%20%7C%20CCNA-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ubicación-Barranquilla%2C%20Colombia-green?style=for-the-badge" />
-</div>
+# 👨‍💻 Marcos Bohórquez
+
+**Backend Developer | Full Stack | Python · FastAPI · 19 años**
+
+> Construyo sistemas que escalan, protegen datos y resuelven problemas reales.
+
+[![Portfolio](https://img.shields.io/badge/📱%20Ver%20Portafolio-marcos--bohorquez--dev.vercel.app-7B1D2E?style=for-the-badge&logo=vercel)](https://marcos-bohorquez-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/📧%20Email-marcosbohorquez0910@gmail.com-7B1D2E?style=for-the-badge&logo=gmail)](mailto:marcosbohorquez0910@gmail.com)
+[![Phone](https://img.shields.io/badge/📱%20Celular-%2B57%20313%20512%203064-7B1D2E?style=for-the-badge&logo=whatsapp)](https://wa.me/573135123064)
+[![Location](https://img.shields.io/badge/📍%20Barranquilla%2C%20Colombia-7B1D2E?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Barranquilla,Colombia)
 
 ---
 
-# 👋 Hola, soy Marcos Bohorquez
+## 🎯 Sobre mí
 
-**Desarrollador Full Stack especializado en arquitecturas escalables y ciberseguridad**
+Soy **Técnico Profesional en Mantenimiento de Sistemas Informáticos** (SENA, 2024), actualmente estudiando **Tecnólogo en Gestión de Sistemas Informáticos** e **Ingeniería Telemática**. Tengo **+1 año de experiencia** construyendo soluciones backend escalables y seguras en producción.
 
-Técnico Profesional en Mantenimiento de Sistemas Informáticos con experiencia comprobada en:
-- ✅ **Desarrollo Full Stack** (Python/FastAPI + MySQL + JWT/OAuth)
-- ✅ **Infraestructura TIC** (CCNA 1-2 Certificado)  
-- ✅ **Optimización de bases de datos** (Mejora de 30% en latencia)
-- ✅ **Seguridad web** (Pentesting, XSS, DoS mitigation)
+Me especializo en **Python y FastAPI**, con sólidos conocimientos de bases de datos, autenticación JWT/OAuth, arquitectura de sistemas y ciberseguridad. Soy una persona de **excelente comunicación y trabajo en equipo** — me gusta liderar conversaciones técnicas y conectar con las personas.
+
+**El fundador de Código Abierto y Caribe Ventures** me invitó a inscribir nuestra startup en su programa porque ve potencial en lo que construimos en 48 horas.
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🏆 Logros Destacados
 
-### 🏆 **DELTA - Sistema Centralizado de Vacunación (MinSalud)**
-**Proyecto Full Stack en Producción**
+| Logro | Detalles |
+|-------|----------|
+| 🥇 **Ganador Semillero Regional** | Sistema de Vacunación DELTA · Instituto La Salle, Barranquilla |
+| 🇨🇴 **Finalista Nacional** | Mismo proyecto en Uniminutos, Bogotá (nacional) |
+| ⚡ **Hackathon 48h** | Backend developer en Código Abierto + Caribe Ventures (invitado a Caribe Ventures) |
+| 📉 **−30% Latencia** | Optimizaciones SQL en producción (2.8s → 1.9s en backend) |
+| 🎯 **UX Crítica** | Reduje clicks de consulta médica de 8 a 3 (−62.5%) |
 
-![Status](https://img.shields.io/badge/Status-En%20Vivo-brightgreen?style=flat-square)
-![Production](https://img.shields.io/badge/Entorno-Producción-blue?style=flat-square)
-![Client](https://img.shields.io/badge/Cliente-MinSalud%20Colombia-orange?style=flat-square)
+---
 
-**Descripción:**
-Plataforma web escalable para consulta centralizada de datos de vacunación de pacientes. Implementada para el Ministerio de Salud de Colombia con protocolos de seguridad de nivel empresarial.
+## 💼 Experiencia
+
+### 🚀 **Desarrollador Full Stack** — Proyecto DELTA (MinSalud)
+**Feb 2025 – Abr 2026**
+
+Arquitecturé e implementé plataforma centralizada de vacunación para 4 tipos de usuarios.
 
 **Logros:**
-- 🚀 Reducción de tiempo de consulta de **8 clics a 3 clics** (UX optimization)
-- ⚡ Optimización de base de datos: **-30% en latencia** (2.8s → 1.9s)
-- 🔒 Sistema de autenticación segura con **JWT/OAuth + RBAC** para 2 tipos de usuarios
-- 📊 Documentación técnica completa (V0.1.0) con trazabilidad de **47 requerimientos funcionales**
-- 🏗️ Arquitectura Full Stack escalable y mantenible
+- Optimicé consultas SQL reduciendo latencia de BD en **30%**
+- Mejoré UX de 8 clics a 3 en consultas médicas críticas
+- Documenté arquitectura técnica (V0.1.0) con trazabilidad de **47 requerimientos funcionales**
+- Implementé seguridad RBAC y JWT/OAuth
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Link:** [🔗 Consulta de Vacunas - DELTA en Vivo](https://consulta-de-vacunas.netlify.app)  
-**Repositorio:** [📁 Ver código fuente](https://github.com/itHanslee/[repo-name])
+**Stack:** `Python` `FastAPI` `MySQL` `Angular` `TypeScript` `JWT/OAuth` `RBAC`
 
 ---
 
-### 💼 **Experiencia Profesional**
+### 🔧 **Técnico de Infraestructura TIC** — SOMEX
+**Ago 2025 – Feb 2026** _(6+ meses)_
 
-#### **Aprendiz TIC de Infraestructura | SOMEX**
-**Enero 2024 - Actualidad** | Malambo, Atlántico, Colombia
+Lideré mantenimiento y operaciones de infraestructura TIC empresarial.
 
-**Logros cuantitativos:**
-- 🎯 **99% de disponibilidad** garantizada en infraestructura empresarial
-- 📊 Gestión de **120+ incidentes críticos** mediante GLPI y Siesa Enterprise
-- ⏱️ Reducción de **MTTR (Mean Time To Repair) en 45%**
-- 📋 Documentación de **35+ procedimientos técnicos**
-- 🤖 Reducción de **tickets repetidos en 38%** mediante base de conocimientos
+**Logros:**
+- Garanticé **99% de disponibilidad** en infraestructura empresarial
+- Reduje MTTR (Mean Time To Repair) en **45%** gestionando 50+ incidentes críticos
+- Creé base de conocimientos con 15+ procedimientos, reduciendo tickets repetidos en **38%**
+- Documenté y automaticé procesos clave
 
-**Responsabilidades:**
-- Mantenimiento preventivo y correctivo de hardware/software
-- Gestión de incidentes en plataformas GLPI y Siesa Enterprise
-- Configuración de infraestructura de redes Cisco (CCNA 1-2)
-- Despliegue y gestión de contenedores Docker
-- Creación y estandarización de documentación técnica
-
-**Skills:** CCNA • GLPI • Siesa Enterprise • Docker • Linux • Bash • Troubleshooting
+**Stack:** `Cisco CCNA` `GLPI` `Bash` `Linux` `Siesa Enterprise` `Docker`
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🎨 Proyectos Destacados
 
-### **Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square)
+### 🥇 **[Sistema de Vacunación DELTA](https://github.com/itHanslee/Sistema-de-vacunacion)**
+**Ganador Regional · Finalista Nacional**
 
-### **Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+Plataforma Full Stack centralizada para el Ministerio de Salud, con autenticación RBAC para 4 roles y arquitectura lista para producción.
 
-### **Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Optimization-336791?style=flat-square)
+**Impacto:**
+- **−30%** latencia de base de datos
+- **3 clics** para consulta médica (antes: 8)
+- **47** requerimientos funcionales documentados
+- **4** roles de usuario con RBAC
 
-### **Infraestructura & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+**Stack:** `Python` `FastAPI` `MySQL` `Angular` `TypeScript` `JWT` `OAuth` `RBAC`
 
-### **Seguridad**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square)
-
-### **Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+🔗 [Ver repositorio](https://github.com/itHanslee/Sistema-de-vacunacion)
 
 ---
 
-## 📜 Certificaciones
+### ⚡ **[Hackathon 48h Backend](https://github.com/itHanslee/Hackaton_back)**
+**Caribe Ventures · Código Abierto**
+
+Backend completo desarrollado en 48 horas. El equipo recibió **invitación directa del fundador** para inscribir la startup.
+
+**Detalles:**
+- API REST robusta en FastAPI
+- Integración Full Stack con frontend (calificación: 4.2/5)
+- Arquitectura escalable desde cero
+
+**Stack:** `Python` `FastAPI` `MySQL` `REST API`
+
+🔗 [Backend](https://github.com/itHanslee/Hackaton_back) · [Frontend](https://github.com/Wmolina17/hackaton_frontend)
+
+---
+
+### 🤖 **[IT Assistant Lucky](https://github.com/itHanslee/IT-Assistent-lucky)**
+**Proyecto Personal · En Desarrollo**
+
+Asistente de soporte técnico autónomo que corre en segundo plano, detecta errores en tiempo real, genera reportes y resuelve problemas automáticamente.
+
+**Características:**
+- Monitoreo continuo en background
+- Detección de fallos y errores del sistema
+- Generación de reportes detallados
+- Reparación automática
+
+**Stack:** `Python` `Automatización` `IA Agéntica` `Bash`
+
+🔗 [Ver repositorio](https://github.com/itHanslee/IT-Assistent-lucky)
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+### 🔴 **Backend** _(Especialidad)_
+```
+Python        ████████░ 90%
+FastAPI       ████████░ 88%
+MySQL / SQL   ████████░ 85%
+JWT/OAuth     ████████░ 82%
+RBAC          ████████░ 80%
+Git/GitHub    ████████░ 85%
+```
+
+### 🔵 **Frontend**
+```
+Angular       ███████░░ 70%
+TypeScript    ███████░░ 68%
+HTML/CSS      ███████░░ 72%
+```
+
+### 🟣 **Infraestructura & Seguridad**
+```
+Cisco CCNA        ████████░ 78%
+Docker            ███████░░ 65%
+Ethical Hacking   ███████░░ 72%
+Bash/Linux        ███████░░ 70%
+Kali Linux        ███████░░ 65%
+```
+
+### 🟡 **Especialidades**
+- **Seguridad Web:** JWT, OAuth, RBAC, Pentesting (XSS, DoS)
+- **Optimización:** SQL Performance (+30% mejora), Database indexing
+- **Automatización:** Scripts Bash, Python automation, CI/CD basics
+- **IA Agéntica:** Prompt Engineering, Cursor, Claude Code
+- **Metodologías:** SDD (Software Driven Development)
+
+---
+
+## 📜 Certificaciones & Educación
+
+| Certificación | Detalles | Estado |
+|---|---|---|
+| 🏫 **Ingeniería Telemática** | Universidad · Barranquilla | En Curso |
+| 🏫 **Tecnólogo en Gestión de Sistemas** | SENA · Barranquilla | En Curso |
+| ✅ **Técnico en Mantenimiento de Sistemas** | SENA · Barranquilla | Graduado 2024 |
+| 🔐 **CCNA 1 & 2: Routing y Switching** | Cisco Network Academy | 2024–2025 |
+| 🛡️ **Hacking Ético & Pentesting Web** | XSS, DoS, Ransomware, DockerLabs | Certificado |
+| 🤖 **Especialista en IA & Agentes** | SDD, Prompt Engineering, Cursor, Claude Code | Certificado |
+| 💬 **Habilidades Blandas & Liderazgo** | Desarrollo Económico, Trabajo en Equipo | Certificado |
+| 🏆 **Semillero Regional Ganador** | Instituto La Salle · Finalista Nacional Uniminutos | 2024–2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=itHanslee&theme=dark&hide_border=true&bg_color=0D0A0B&title_color=7B1D2E&text_color=F0E6DE&icon_color=C8965A" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itHanslee&theme=dark&hide_border=true&bg_color=0D0A0B&title_color=7B1D2E&text_color=F0E6DE&card_width=400&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Intereses & Pasiones
+
+- 💻 **Desarrollo Backend** y arquitectura de sistemas escalables
+- 🔐 **Ciberseguridad** y hardening de aplicaciones
+- 🤖 **IA Agéntica** y automatización inteligente
+- 🚀 **Emprendimiento** — siempre buscando problemas para resolver
+- 🎓 **Aprendizaje continuo** — hacking ético, DevOps, cloud platforms
+- 🤝 **Liderazgo técnico** y mentoría de otros desarrolladores
+
+---
+
+## 📞 Contacto & Links
+
+| Canal | Link |
+|-------|------|
+| 🌐 **Portafolio** | [marcos-bohorquez-dev.vercel.app](https://marcos-bohorquez-dev.vercel.app/) |
+| 📧 **Email** | [marcosbohorquez0910@gmail.com](mailto:marcosbohorquez0910@gmail.com) |
+| 📱 **WhatsApp** | [+57 313-512-3064](https://wa.me/573135123064) |
+| 🐙 **GitHub** | [@itHanslee](https://github.com/itHanslee) |
+| 💼 **LinkedIn** | [Por agregarse] |
+| 🐦 **Twitter/X** | [Por agregarse] |
+
+---
+
+## 💬 ¿Hablamos?
+
+Estoy disponible para:
+- 🚀 **Proyectos freelance** de backend
+- 💼 **Posiciones full-time** como Backend Developer
+- 📚 **Prácticas profesionales** (PPP)
+- 🤝 **Colaboraciones** y asociaciones técnicas
+- 🎓 **Mentorías** en desarrollo backend y seguridad
+
+**Envíame un email o escríbeme a WhatsApp** — respondo rápido y hablamos de cómo podemos crear algo increíble juntos.
+
+---
 
 <div align="center">
 
-| Certificación | Emisor | Año |
-|--------------|--------|-----|
-| **CCNA 1 & 2** - Fundamentos de Routing y Switching | Cisco Network Academy | 2024-2025 |
-| **Especialista en Hacking Ético & Pentesting Web** | DockerLabs | 2024 |
-| **Especialista en IA & SDD Methodology** | Cursor + Claude Code | 2024 |
-| **Desarrollo Frontend & Soft Skills** | Fundación Rofe | 2023 |
+**Diseñado con ❤️ en Barranquilla, Colombia** · 2025
 
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosbohorquez&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbohorquez&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🎓 Educación
-
-**Técnico Profesional en Mantenimiento de Sistemas Informáticos**  
-Institución Universitaria de Barranquilla (IUB)  
-Enero 2024 - Diciembre 2025 | En curso (5to cuatrimestre)
-
-**Carrera relacionada:** Ingeniería Telemática
-
----
-
-## 💬 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-bohorquez)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosbohorquez)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosbohorquez0910@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573135123064)
-
-</div>
-
----
-
-## 🚀 Estoy buscando
-
-- 💼 **Oportunidades laborales** como Desarrollador Full Stack (Remoto o Barranquilla)
-- 🔗 **Colaboraciones** en proyectos Open Source con Python/FastAPI
-- 📚 **Mentorías** en arquitectura de sistemas y ciberseguridad
-- 🤝 **Networking** con desarrolladores y equipos tech en Colombia
-
----
-
-## 📌 Notas
-
-- 🔄 Mi trabajo es **Open Source ready** - me encanta contribuir a la comunidad
-- 📖 Siempre estoy **aprendiendo** - actualmente explorando GCP y microservicios
-- ⚡ Enfocado en **calidad de código** y buenas prácticas de desarrollo
-- 🎯 Comprometido con la **continuidad operativa** y la **seguridad de la información**
-
----
-
-<div align="center">
-
-⭐️ Si mi trabajo te gusta, **déjame una estrella** en mis repositorios 🌟  
-💪 Hecho con pasión desde Barranquilla, Colombia 🇨🇴
+*"El futuro es para quien se atreva a construirlo"*
 
 </div>
