@@ -13,7 +13,7 @@
 
 ## 🎯 Sobre mí
 
-Soy **Técnico Profesional en Mantenimiento de Sistemas Informáticos** (SENA, 2024), actualmente estudiando **Tecnólogo en Gestión de Sistemas Informáticos** e **Ingeniería Telemática**. Tengo **+1 año de experiencia** construyendo soluciones backend escalables y seguras en producción.
+Soy **Técnico Profesional en Mantenimiento de Sistemas Informáticos** (Institucion Universitaria de Barranquilla, 2024 - 2026), actualmente estudiando **Tecnólogo en Gestión de Sistemas Informáticos** e **Ingeniería Telemática**. Tengo **+1 año de experiencia** construyendo soluciones backend escalables y seguras en producción.
 
 Me especializo en **Python y FastAPI**, con sólidos conocimientos de bases de datos, autenticación JWT/OAuth, arquitectura de sistemas y ciberseguridad. Soy una persona de **excelente comunicación y trabajo en equipo** — me gusta liderar conversaciones técnicas y conectar con las personas.
 
