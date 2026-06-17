@@ -122,6 +122,7 @@ Asistente de soporte técnico autónomo que corre en segundo plano, detecta erro
 ### 🔴 **Backend** _(Especialidad)_
 ```
 Python        ████████░ 90%
+Java          ████████░ 80%
 FastAPI       ████████░ 88%
 MySQL / SQL   ████████░ 85%
 JWT/OAuth     ████████░ 82%
