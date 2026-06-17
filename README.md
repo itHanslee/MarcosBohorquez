@@ -204,8 +204,6 @@ Kali Linux        ███████░░ 65%
 | 📧 **Email** | [marcosbohorquez0910@gmail.com](mailto:marcosbohorquez0910@gmail.com) |
 | 📱 **WhatsApp** | [+57 313-512-3064](https://wa.me/573135123064) |
 | 🐙 **GitHub** | [@itHanslee](https://github.com/itHanslee) |
-| 💼 **LinkedIn** | [Por agregarse] |
-| 🐦 **Twitter/X** | [Por agregarse] |
 
 ---
 
